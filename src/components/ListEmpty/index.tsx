@@ -1,4 +1,4 @@
-import { Container, Message } from "./styles"
+import { Container, Message } from './styles'
 
 type TypeProps = {
   message: string
