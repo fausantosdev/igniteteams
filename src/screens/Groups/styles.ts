@@ -7,9 +7,3 @@ export const Container = styled.View`
   align-items: center;
   padding: 15px;
 `
-
-export const Title = styled.Text`
-  color: #ffffff;
-  font-family: 'Roboto-Light';
-  font-size: 40px;
-`
